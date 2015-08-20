@@ -1,4 +1,3 @@
  demo_git
-faire formation sur git 
-github faire des modifications en ligne  
-
+nd,n,s,nd,s;nd;s,nd,;sdns,;s,;d,;
+aire formation sur git 
